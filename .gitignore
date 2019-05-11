@@ -9,3 +9,4 @@
 /configure/*.local
 envPaths
 O.*/
+RELEASE_SITE
