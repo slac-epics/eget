@@ -1,0 +1,3 @@
+BASE_MODULE_VERSION=bleeding_edge-7.0_test
+EPICS_SITE_TOP=/afs/slac/g/lcls/epics
+EPICS_MODULES=/afs/slac/g/lcls/epics/bleeding_edge-7.0
