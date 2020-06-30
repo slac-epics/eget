@@ -1,3 +1,11 @@
+R0.0.0-0.0.2 2020-06-24 Bruce Hill
+	Deploy new eget w/ unquoted output.
+	Actual changes are to pvAccess and pvData, so this
+	build is w/ base/bleeding_edge-7.0_test
+	which is built w/ patched pvAccessCPP and pvDataCPP
+	Test cases for new unquoted eget output:
+		eget -ts ds -aname=BPM%:X|head -3
+		eget -s INFR:SYS0:1:CU_HXR | head -3 
 
 R0.0.0-0.0.1	2019-05-10	Bruce Hill
 	SLAC build support
