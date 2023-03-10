@@ -2,7 +2,7 @@ R0.0.0-0.0.4    2023-03-09 Jesse Bellister
         Build for EPICS base/R7.0.6.1-1.0
         This build of EPICS has picked up Bruce's
         fixes to pvAccess and pvData so we now get
-        unqouted output without needing to build
+        unquoted output without needing to build
         against bleeding-edge.
 
 R0.0.0-0.0.3	2022-05-11 Bruce Hill
